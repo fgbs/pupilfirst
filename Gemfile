@@ -38,9 +38,7 @@ gem 'reform', '~> 2.6' # Form objects decoupled from models. http://www.trailbla
 gem 'reform-rails', '~> 0.2'
 gem 'virtus', '~> 2.0' # Required for reform coercion. Attributes on Steroids for Plain Old Ruby Objects
 gem 'dry-validation', '~> 1.7' # There seems to be a dependency bug in reform's coercion code - it required dry-types.
-gem 'postmark-rails', '~> 0.21' # Official integration library for using Rails and ActionMailer with the Postmark HTTP API.
 gem 'responders', '~> 3.0' # A set of Rails responders to dry up your application (respond_to / with)
-gem 'rollbar', '~> 3.2' # Exception tracking and logging from Ruby to Rollbar https://rollbar.com
 gem 'humanize', '~> 2.5' # Convert numbers to english words
 gem 'scarf', '~> 0.2' # A Ruby library for generating initial avatars and identicons.
 gem 'kaminari', '~> 1.2' # Scope & Engine based, clean, powerful, customizable and sophisticated paginator.
@@ -51,6 +49,13 @@ gem 'activerecord-nulldb-adapter', '~> 0.8' # A database backend that translates
 gem 'discordrb', '~> 3.4' # A Ruby wrapper for the Discord API.
 gem "groupdate", '~> 6.1.0' # Group ActiveRecord results by day, week, month, quarter, year, or hour.
 gem 'discorb', '~> 0.20.0' # A Ruby wrapper for the Discord Bot.
+
+# email settings
+gem 'postmark-rails', '~> 0.21' # Official integration library for using Rails and ActionMailer with the Postmark HTTP API.
+gem 'mta-settings', '~> 1.1.2'
+
+# monitoring settings
+gem 'rollbar', '~> 3.2' # Exception tracking and logging from Ruby to Rollbar https://rollbar.com
 
 # OmniAuth providers
 gem 'omniauth-google-oauth2', '~> 1.1' # Oauth2 strategy for Google.
