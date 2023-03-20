@@ -62,6 +62,7 @@ gem 'omniauth-google-oauth2', '~> 1.1' # Oauth2 strategy for Google.
 gem 'omniauth-facebook', '~> 9.0' # Facebook OAuth2 Strategy for OmniAuth.
 gem 'omniauth-github', github: 'pupilfirst/omniauth-github', branch: 'master' # GitHub strategy for OmniAuth. Forked because of incompatibility with omniauth-google-oauth2.
 gem 'omniauth-discord', '~> 1.0' # Discord OAuth2 Strategy for OmniAuth.
+gem 'omniauth-oauth2'
 
 gem 'file_validators', '~> 3.0' # Adds file validators to ActiveModel.
 gem 'pundit', '~> 2.1' # Minimal authorization through OO design and pure Ruby classes.

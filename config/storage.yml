@@ -13,6 +13,7 @@ amazon:
   secret_access_key: <%= Rails.application.secrets.aws[:secret_access_key] %>
   bucket: <%= Rails.application.secrets.aws[:bucket] %>
   region: <%= Rails.application.secrets.aws[:region] %>
+  endpoint: <%= Rails.application.secrets.aws[:endpoint] %>
 # Remember not to checkin your GCS keyfile to a repository
 # google:
 #   service: GCS

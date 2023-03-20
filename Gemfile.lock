@@ -372,6 +372,10 @@ GEM
     nokogiri (1.13.8)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
+    nokogiri (1.13.8-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.8-x86_64-linux)
+      racc (~> 1.4)
     oauth2 (2.0.9)
       faraday (>= 0.17.3, < 3.0)
       jwt (>= 1.0, < 3.0)
@@ -700,6 +704,7 @@ DEPENDENCIES
   omniauth-facebook (~> 9.0)
   omniauth-github!
   omniauth-google-oauth2 (~> 1.1)
+  omniauth-oauth2
   overcommit (~> 0.58)
   pg (~> 1.2)
   pg_search (~> 2.3)
