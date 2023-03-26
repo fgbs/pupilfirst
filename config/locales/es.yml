@@ -81,7 +81,7 @@ es:
       more: Mas
       show_more_links: Mostrar mas links
     AppRouter__Header:
-      edit_Perfil: Editar Perfil
+      edit_profile: Editar Perfil
       sign_in: Ingresar
       sign_out: Salir
     AppRouter__Nav:
@@ -173,7 +173,7 @@ es:
       sort_criterion_last_activity: Última Actividad
       sort_criterion_posted_at: Creado a las
       sort_criterion_views: Vistas
-      topic_last_actualizado_text: Última actualización
+      topic_last_updated_text: Última actualización
       topic_posted_by_text: Creado por
       topic_stats_likes:
         one: 1 Like
@@ -228,7 +228,7 @@ es:
       sort_criterion:
         created_at: Creado
         name: Nombre
-        actualizado_at: actualizado
+        updated_at: actualizado
       sorter:
         label: Ordenar por
     CourseAuthors__Form:
@@ -311,7 +311,7 @@ es:
       select_cohorts: Seleccionar Grupos
     CourseCoaches__InfoForm:
       no_students_assigned: Este facilitador no tiene estudiantes asignados. Puedes asignar facilitadores directamente mientras editas los detalles del estudiante.
-      notification_coach_actualizado: Facilitador actualizado exitosamente
+      notification_coach_updated: Facilitador actualizado exitosamente
       pending_submissions: Trabajos pendientes
       revied_submissions: Trabajos en revisión
       search_cohorts_all: Has seleccionado todos los grupos!
@@ -959,7 +959,7 @@ es:
       undo_changes: Undo Changes
       uploading: Updating...
     CurriculumEditor__ContentEditor:
-      last_actualizado: Last actualizado
+      last_updated: Last actualizado
       not_versioned: Not Versioned
       view_as_student: View as Student
     CurriculumEditor__EmbedBlockResolver:
@@ -1084,7 +1084,7 @@ es:
       group_details: Target Group Details
       milestone_q: Is this a milestone target group?
       target_group_created_notification: Target Group created exitosamente
-      target_group_actualizado_notificaion: Target Group actualizado exitosamente
+      target_group_updated_notificaion: Target Group actualizado exitosamente
       title: Title
       title_name_error: not a valid Title
       title_placeholder: Type target group name here
@@ -1145,7 +1145,7 @@ es:
     HelpIcon:
       read_more: Read more
     Layout__UserControls:
-      edit_Perfil: Edit Perfil
+      edit_profile: Edit Perfil
       sign_in: Sign In
       sign_out: Sign Out
       user_controls: Show user controls
@@ -1216,12 +1216,12 @@ es:
       coach_email: Coach email address
       coach_left_q: Has the coach left the school?
       coach_name: Coach Name
-      coach_Perfil_warn: Since the coach Perfil isn't public, this won't be shown anywhere
+      coach_profile_warn: Since the coach Perfil isn't public, this won't be shown anywhere
       coach_public_q: Should the coach Perfil be public?
       coach_title: Coach Title/Expertise
       coach_title_error: Must have at least two characters
       coach_update: Update Coach
-      coach_actualizado: Coach actualizado exitosamente
+      coach_updated: Coach actualizado exitosamente
       connect_link: Connect Link
       connect_link_error: This doesn't look like a valid URL
       connect_link_placeholder: Student connect request link for the coach
@@ -1274,7 +1274,7 @@ es:
     SchoolAdmins__Form:
       add_new_admin: Add new school admin
       admin_created_notification: School Admin created exitosamente.
-      admin_actualizado_notification: School Admin actualizado exitosamente.
+      admin_updated_notification: School Admin actualizado exitosamente.
       create_admin: Create School Admin
       email_error: Enter a valid Email
       email_placeholder: Add email here
@@ -1300,7 +1300,7 @@ es:
       community_editor_error: is not a valid name
       community_editor_label: What do you want to call this community?
       community_editor_placeholder: This community needs a name!
-      community_actualizado_notification: Community actualizado exitosamente.
+      community_updated_notification: Community actualizado exitosamente.
       create_community: Create Community
       edit_categories: Edit Categories
       give_access: "Give access to students from:"
@@ -1324,11 +1324,11 @@ es:
       manage: Administrar
       privacy_policy: Política de Privacidad
       terms_and_conditions: Terminos y Condiciones
-      actualizado_notification: ha sido actualizado.
+      updated_notification: ha sido actualizado.
     SchoolCustomize__ContactsEditor:
       address_placeholder: Dejar la dirección vacia para ocultarla.
       contact_address: Dirección de Contacto
-      contact_actualizado_notification: Detalles de contacto han sido actualizados.
+      contact_updated_notification: Detalles de contacto han sido actualizados.
       email_address: Dirección de Correos
       email_address_error: no es un correo válido
       email_address_placeholder: Dejar el correo en blanco para ocultar el link.
@@ -1357,7 +1357,7 @@ es:
       logo_light_label: Logo on a light background
       manage_images: Manage Images
       update_images: Update Images
-      actualizado_notification: Images have been actualizado exitosamente.
+      updated_notification: Images have been actualizado exitosamente.
     SchoolCustomize__LinkComponent:
       cancel_editing: Cancel Editing
       move_down: Move Down
@@ -1568,8 +1568,8 @@ es:
       search_coaches_placeholder: Search coaches
       select_a_cohort: Select a cohort
       student_name_placeholder: Student name here
-      student_actualizado: Student actualizado exitosamente
-      student_actualizado_moved: Student has been actualizado, and moved to list of inactive students
+      student_updated: Student actualizado exitosamente
+      student_updated_moved: Student has been actualizado, and moved to list of inactive students
       tags_applied: Tags applied
       tags_applied_team: Tags applied to team
       tags_applied_user: Tags applied to user
@@ -1577,7 +1577,7 @@ es:
       team_name: Team Name
       team_name_error: Team Name must have at least two characters
       team_name_placeholder: Team name here
-      team_actualizado_moved: Team has been actualizado, and moved to list of inactive students
+      team_updated_moved: Team has been actualizado, and moved to list of inactive students
       title: Title
       title_error: Title must have at least two characters
       title_placeholder: Student, Coach, CEO, etc.
@@ -1589,7 +1589,7 @@ es:
       more: Más
       show_links: Mostrar mas links
     StudentTopNav__UserControls:
-      edit_Perfil: Editar Perfil
+      edit_profile: Editar Perfil
       sign_in: Entrar
       sign_out: Salir
       user_controls: Mostrar controles de usuario
@@ -1602,9 +1602,9 @@ es:
       move_out_team: Move out from Team
       sort_criterion_label: "Sort by:"
       sort_criterion_last_created: Last Created
-      sort_criterion_last_actualizado: Last actualizado
+      sort_criterion_last_updated: Last actualizado
       sort_criterion_name: Name
-      teams_actualizado_success: Teams actualizado exitosamente
+      teams_updated_success: Teams actualizado exitosamente
     StudentsEditor__Search:
       filter_input_label: "Filter by:"
       filter_input_placeholder: Type name, tag or level
@@ -1654,9 +1654,9 @@ es:
         empty_message: No Students Found
       sorter:
         first_created: First Created
-        first_actualizado: First actualizado
+        first_updated: First actualizado
         last_created: Last Created
-        last_actualizado: Last actualizado
+        last_updated: Last actualizado
         name: Name
       student: student
       students: students
@@ -1796,7 +1796,7 @@ es:
       deleting_account_warning: Deleting your user account removes all your data from this school. Replies to posts in communities and feedback to students (if user has a coach Perfil) will not be deleted. Admin rights need to be revoked if you are an admin in this school.
       disable_email_radio: Disable
       displayed_publicly: This information will be displayed publicly so be careful what you share.
-      edit_Perfil: Edit your Perfil
+      edit_profile: Edit your Perfil
       email_label: Email
       email_placeholder: Type your email
       email_sent_notification: Please check your new email. We've sent instructions to update your email address.
@@ -2034,7 +2034,7 @@ es:
     link_fallback:
       link_fallback: "If you're unable to click the link above, please copy and paste the following link into your browser's address bar:"
     school_admin:
-      email_actualizado_notification:
+      email_updated_notification:
         body:
           previous_email_html: The previous email address was <strong>%{old_email}</strong> and the new email address is <strong>%{new_email}</strong>.
           user_html: <strong>%{name}</strong> from your school has actualizado the email address.
@@ -2212,7 +2212,7 @@ es:
     destroy_team:
       success_notification: Team deleted exitosamente
     dropout_student:
-      student_actualizado_notification: Student actualizado exitosamente
+      student_updated_notification: Student actualizado exitosamente
     export_course_report:
       course_not_found_error: Could not find a course with the given ID
       success_notification: Your export is being processed. We'll notify you as soon as it is ready.
@@ -2268,16 +2268,16 @@ es:
     update_course:
       success_notification: Course actualizado exitosamente!
     update_course_author:
-      author_name_actualizado_notification: The author's name has been actualizado.
-      author_actualizado_notification: Author actualizado
+      author_name_updated_notification: The author's name has been actualizado.
+      author_updated_notification: Author actualizado
     update_evaluation_criterion:
-      eval_crit_actualizado_notification: Evaluation criterion actualizado exitosamente!
+      eval_crit_updated_notification: Evaluation criterion actualizado exitosamente!
     update_post:
-      actualizado_success_notification: actualizado exitosamente
+      updated_success_notification: actualizado exitosamente
     update_review_checklist:
-      review_actualizado_notification: Review checklist actualizado exitosamente
+      review_updated_notification: Review checklist actualizado exitosamente
     update_school:
-      details_actualizado_notification: Details actualizado exitosamente!
+      details_updated_notification: Details actualizado exitosamente!
     update_school_link:
       link_not_found_error: Unable to find link!
       success_notification: Link actualizado exitosamente!
@@ -2296,9 +2296,9 @@ es:
     update_team:
       success_notification: Team actualizado exitosamente
     update_topic:
-      topic_actualizado_notification: Topic actualizado exitosamente!
+      topic_updated_notification: Topic actualizado exitosamente!
     update_user:
-      Perfil_saved_notification: Perfil actualizado exitosamente!
+      profile_saved_notification: Perfil actualizado exitosamente!
   organisations:
     index:
       heading: Organisations
@@ -2708,7 +2708,7 @@ es:
     update_email:
       frequent_request_error: An email was sent less than two minutes ago. Please wait for a few minutes before trying again.
       link_expired: That link has expired or is invalid. Please try again.
-  validate_submission_gradable: 
+  validate_submission_gradable:
     owners_should_be_active:
       error: Cannot update inactive student submissions.
     submission_should_be_live:
