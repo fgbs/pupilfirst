@@ -40,6 +40,7 @@ ENV AWS_SECRET_ACCESS_KEY=dummy_secret_access_key
 ENV AWS_REGION=us-east-1
 ENV AWS_BUCKET=dummy_bucket_name
 
+ENV PREPARE_FOR_PRECOMPILATION=true
 # Export the locales.json file.
 RUN bundle exec i18n export
 
@@ -86,6 +87,7 @@ RUN bundle config set --local without development test
 RUN bundle install
 
 ENV RAILS_ENV="production"
+ENV PREPARE_FOR_PRECOMPILATION=true
 
 RUN mkdir -p tmp/pids
 
