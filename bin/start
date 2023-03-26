@@ -12,5 +12,6 @@ if ( [ "$PROCESS_TYPE" = "worker" ] || beginswith worker "$DYNO" ); then
 
   bundle exec rake jobs:work
 else
+  bundle exec i18n export
   bundle exec puma -C config/puma.rb
 fi
