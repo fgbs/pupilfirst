@@ -1812,7 +1812,7 @@ es:
       password_placeholder: Escriba la contraseña actual
       photo: Foto
       preferred_name_placeholder: Escriba su nombre preferido
-      save_changes: Sguardar cambios
+      save_changes: Guardar cambios
       security: Seguridad
       select_image_limit: Seleccione una imagen con un tamaño inferior a 5 MB
       select_language: Seleccione el idioma en el que prefiere que se muestre la interfaz de usuario.
@@ -2691,7 +2691,7 @@ es:
         already_signed: Ya has iniciado sesión.
         email: Continuar con el correo electrónico
         email_address: Dirección de correo electrónico
-        email_me: Enviarme un enlace por correo electrónico para iniciar sesión
+        email_me: Enviarme un enlace por correo
         magic_link: Podemos enviarle por correo electrónico un enlace mágico para que pueda iniciar sesión sin tener que escribir su contraseña.
         oauth: Inicia sesión con Google, Facebook, o Github
         password: Contraseña
