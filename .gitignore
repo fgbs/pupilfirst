@@ -77,6 +77,5 @@ flipper.pstore
 
 /config/master.key
 config/credentials.yml.enc
-config/locales/translation.es-CL.yml
 pupilfirst.code-workspace
 translator.py
