@@ -2673,8 +2673,8 @@ es:
           page_title: Confirma tu solicitud
       new:
         already_signed: Ya has iniciado sesión.
-        continue_with_email_link: Continuar con el correo electrónico
-        heading: Iniciar sesión en %{school_name}
+        continue_with_email_link: Continuar con el correo
+        heading: Iniciar sesión en <br /> %{school_name}
         sign_in_options_separator: O
       request_password_reset:
         cancel_link: Inicia sesión con Google, Facebook, o Github
@@ -2683,13 +2683,13 @@ es:
         heading: Restablecer su contraseña
         image_alt: Un estudiante sosteniendo una llave gigante con un símbolo de reinicio
         page_title: Restablecer la contraseña
-        submit_button: Petición para la recuperación de contraseña
+        submit_button: Enviar
         subtitle: Ingrese su correo electrónico para la recuperación de la contraseña.
       reset_password:
         link_used: Ese enlace único ya se ha utilizado o no es válido. Intente restablecer su contraseña nuevamente.
       sign_in_with_email:
         already_signed: Ya has iniciado sesión.
-        email: Continuar con el correo electrónico
+        email: Continuar con el correo
         email_address: Dirección de correo electrónico
         email_me: Enviarme un enlace por correo
         magic_link: Podemos enviarle por correo electrónico un enlace mágico para que pueda iniciar sesión sin tener que escribir su contraseña.
