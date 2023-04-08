@@ -2674,10 +2674,10 @@ es:
       new:
         already_signed: Ya has iniciado sesión.
         continue_with_email_link: Continuar con el correo
-        heading: Iniciar sesión en <br /> %{school_name}
+        heading: Iniciar sesión
         sign_in_options_separator: O
       request_password_reset:
-        cancel_link: Inicia sesión con Google, Facebook, o Github
+        cancel_link: Inicia sesión con Google, Facebook
         email_label: Email
         email_placeholder: john@example.com
         heading: Restablecer su contraseña
@@ -2693,7 +2693,7 @@ es:
         email_address: Dirección de correo electrónico
         email_me: Enviarme un enlace por correo
         magic_link: Podemos enviarle por correo electrónico un enlace mágico para que pueda iniciar sesión sin tener que escribir su contraseña.
-        oauth: Inicia sesión con Google, Facebook, o Github
+        oauth: Inicia sesión con Google, Facebook
         password: Contraseña
         password_free: Iniciar sesión sin contraseña
         password_new: Restablecer su contraseña
